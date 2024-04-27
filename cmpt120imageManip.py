@@ -1,8 +1,6 @@
-# CMPT 120 Yet Another Image Processer
+# Image Processer
 # Starter code for cmpt120imageManip.py
-# Author: Jarel Tan (301463590)
-# Date: December 6, 2021
-# Description: CMPT 120 Final Project
+# Author: Jarel Tan
 
 # Import Modules
 import cmpt120imageProjHelper
